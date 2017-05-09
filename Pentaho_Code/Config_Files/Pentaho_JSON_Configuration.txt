@@ -1,0 +1,12 @@
+https://api.data.gov/nrel/alt-fuel-stations/v1.json?api_key=gmNLKPLREG0YLm33QEGcZ4cb90DGmsrFfFbr4SYP
+
+
+jdbc:sqlserver://reporting.caylwz8kpbxv.us-west-2.rds.amazonaws.com:1433;databaseName=reporting;selectMethod=cursor;
+
+
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+configuration file: C:\Users\Administrator\.kettle
+
+
+
